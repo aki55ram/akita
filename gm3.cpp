@@ -1,5 +1,5 @@
 #include<iostream.h>
-void main()
+int main()
 {
 int a=0;
 while(a<5)
@@ -7,4 +7,5 @@ while(a<5)
 cout<<"Hello World\n";
 a++;
 }
+return 0;
 }
